@@ -5,4 +5,28 @@
 #### very small i guess 4 
 ##### i am excited
 ###### hello world , 
+## Displaying Codes
+### Git code 
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+### Java script code
+``` javascript
+var myVar = "Hello, world!";
+```
+### Python code
+``` python
+import request
+shiv = 16
+```
+### C code
+``` C
+#include<stdio.h>
+#include<conio.h>
+void main{
+int = 5;
+};
+
+```
 
